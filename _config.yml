@@ -12,7 +12,7 @@ url: "https://madelinechen.github.io/"
 # Social Profiles
 github_username:    madelinechen
 facebook_username:  themaddyco
-linkedin_username:  madelinechen
+linkedin_username:  madelinechen7
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
@@ -21,7 +21,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
-#plugins:
-  #- jekyll-feed
-  #- jekyll-paginate
-  #- jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
