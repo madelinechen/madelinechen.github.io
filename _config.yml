@@ -1,0 +1,28 @@
+theme: jekyll-theme-slate
+
+title: I am an engineer
+description: 1.build my own website 2. meet cool nontraditional engineers 3. increase my sense of self confidence in tech
+
+title: Maddy Chen
+email: madelinechen@berkeley.edu
+description: Maddy Chen's website
+author: Maddy Chen
+baseurl: ""
+url: "https://madelinechen.github.io/"
+
+# Social Profiles
+github_username:    madelinechen
+facebook_username:  themaddyco
+linkedin_username:  madelinechen
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+#plugins:
+  #- jekyll-feed
+  #- jekyll-paginate
+  #- jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
