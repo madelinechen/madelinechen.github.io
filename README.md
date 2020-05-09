@@ -1,28 +1,12 @@
 ## Welcome to My Personal Website
 
 My name is Maddy Chen and I hope you enjoy learning more about me!
+This website includes relevant links, photos, and brief descriptions for my experiences and activities.
 
 This is still a work in progress!
-Contains relevant links and brief descriptions for my experiences and activities.
 
-### Notes
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## TO DO
+- Add projects section
+- Add a section for photography pics & interests
+- Change color scheme and fonts
+- Move About Section to the right and horizontally + include a vertical pic of me
